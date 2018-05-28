@@ -16,3 +16,6 @@ value = "X"
 move(board, input, value)
 
 display_board(board)
+
+//check if anyone won
+//else
