@@ -11,6 +11,6 @@ def input_to_index(input)
   puts input.to_i - 1
 end
 
-def move(board, index, value = X)
-  puts board, input, value
+def move(board, index = X)
+  puts board, input, 
 end
